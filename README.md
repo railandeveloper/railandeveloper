@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Railan Santos 👋
 
 
-- 🔭 Em Busca do tão sonhado 'sim' na area da tecnologia
+- 🚀 Desvendando o mundo da tecnologia a cada linha
 - 🌱 Estudando Analise e desenvolvimento de sistemas
 - 📫 (contate-me no email: railan-1994@hotmail.com)
 
