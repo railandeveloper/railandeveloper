@@ -2,7 +2,7 @@
 
 
 - 🚀 Desvendando o mundo da tecnologia a cada linha
-- 🌱 Estudando Analise e desenvolvimento de sistemas
+- 🌱 Meu objetivo hoje é construir uma base sólida de conhecimento e me manter em constante evolução.
 - 📫 (contate-me no email: railan-1994@hotmail.com)
 
 <div style="display: inline_block"><br>
