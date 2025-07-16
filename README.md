@@ -3,7 +3,8 @@
 
 - 🚀 Desvendando o mundo da tecnologia a cada linha
 - 🌱 Meu objetivo hoje é construir uma base sólida de conhecimento e me manter em constante evolução.
-- 💼 Aberto a oportunidades como Desenvolvedor Júnior
+- 📚 Estudando Python, Mysql e Django
+- 💼 Aberto a oportunidades como Desenvolvedor (estagio) / Júnior
 - 📫 (contate-me no email: railan-1994@hotmail.com)
 
 <div style="display: inline_block"><br>
